@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @ZCHAnalytics
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Welcome to my repo!
+## About me: 
+Hello, I’m Zulfia and I am working on my Azure cloud certification. 
 
-<!---
-ZCHAnalytics/ZCHAnalytics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills:
+### Cloud Engineering:
+- Azure Virtual Machine, Azure Storage, Entra ID User Management
+- Azure Database Migration, SQL Server Backup Maintenance Planning
+- Disaster Recovery, Geo-replication   
+- Azure Data Studio
+
+### Design of Extract, Tranform, Load Pipelines:
+- OOP in Python Programming for encapsulation
+- Pandas, boto3, SQLAlchemy, Regular Expressions (re).
+- AWS RDS, S3 buckets
+- API 
+
+### Data Analysis:
+- PostgresSQL
+- PgAdmin
+- SQL CRUD, CTE, aggregate and Window operations
+ 
+Tools: Github, Jupyter Notebook, and Visual Studio Code.
