@@ -1,23 +1,26 @@
-# Welcome to my repo!
-## About me: 
-Hello, I’m Zulfia and I am working on my Azure cloud certification. 
+![Masterhead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)
 
-## Skills:
-### Cloud Engineering:
-- Azure Virtual Machine, Azure Storage, Entra ID User Management
-- Azure Database Migration, SQL Server Backup Maintenance Planning
-- Disaster Recovery, Geo-replication   
-- Azure Data Studio
+<h1 align="center">Hi 👋, I'm Zulfia</h1>
+<h3 align="center">An aspiring cloud engineer from London</h3>
 
-### Design of Extract, Tranform, Load Pipelines:
-- OOP in Python Programming for encapsulation
-- Pandas, boto3, SQLAlchemy, Regular Expressions (re).
-- AWS RDS, S3 buckets
-- API 
-
-### Data Analysis:
-- PostgresSQL
-- PgAdmin
-- SQL CRUD, CTE, aggregate and Window operations
+<img src="https://img.shields.io/github/languages/top/ZCHAnalytics/multinational-retail-data-centralisation188?style=plastic&color=0080ff" alt="repo-top-language"> <img src="https://img.shields.io/github/languages/count/ZCHAnalytics/multinational-retail-data-centralisation188?style=plastic&color=0080ff" alt="repo-language-count">
  
-Tools: Github, Jupyter Notebook, and Visual Studio Code.
+
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="30" height="30"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> </p>
+
+
+
+<img align="right" alt="cloud compute" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl7DJ0l-Cgo6ivHjEzbigK_HSAahU-h8nn4BMh1JDz3C-7VX9f2VdXlhHA-w&s">
+
+### Data migration with Microsoft Azure tools:
+Virtual Machine, Storage, Entra ID User Management, SQL Server, SQL Server Management System, Data Studio, Disaster Recovery, Geo-replication.
+
+### ETL pipeline with Python and Amazon Web Services tools:
+RESTful API, Amazon S3, RDS, IAM, Pandas, boto3, SQLAlchemy, Regular Expressions (re).
+
+### Database Design and Analysis:
+PostgresSQL, PgAdmin, SQL CRUD, CTE, aggregate and Window operations.
+
+### Certifications:
+I am certified in **Microsoft Azure AI Fundamentals** and currently working on **Azure Cloud Fundamentals Certification**.
+
