@@ -22,7 +22,7 @@ Virtual Machine, Storage, Entra ID User Management
 SQL Server, SQL Server Management System, Data Studio
 Disaster Recovery, Geo-replication, Failover Groups
 
-### Data warehousing with Python and Amazon Web Services tools:
+### ETL and Data Platform Architecture with Python and Amazon Web Services tools:
 RESTful API, Amazon S3, RDS, IAM, boto3
 SQLAlchemy, Pandas, Regular Expressions (re)
 
