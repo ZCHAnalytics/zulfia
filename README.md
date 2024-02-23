@@ -31,3 +31,11 @@ PostgresSQL, PgAdmin, ERD Tool
 MySQL, MongoDB
 SQL CRUD, CTE, aggregate and Window operations
 
+### Infrastructure as a Code
+Terraform, Azure Developer CLI
+
+### Continiuos Integration/Continuous Development
+Azure DevOps, GitHub Actions
+
+### Containerization
+Docker, Kubernetes
