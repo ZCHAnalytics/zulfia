@@ -32,7 +32,7 @@ MySQL, MongoDB
 SQL CRUD, CTE, aggregate and Window operations
 
 ### Infrastructure as a Code
-Terraform, Azure Developer CLI
+Bicep, Terraform, Azure Developer CLI
 
 ### Continiuos Integration/Continuous Development
 Azure DevOps, GitHub Actions
