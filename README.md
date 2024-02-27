@@ -17,19 +17,19 @@ I am certified in **Microsoft Azure AI Fundamentals** and currently working on *
 
 <img align="right" alt="cloud compute" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl7DJ0l-Cgo6ivHjEzbigK_HSAahU-h8nn4BMh1JDz3C-7VX9f2VdXlhHA-w&s">
 
-### Data migration with Microsoft Azure tools:
+### Data migration with Microsoft Azure tools
 Virtual Machine, Storage, Entra ID User Management
 SQL Server, SQL Server Management System, Data Studio
 Disaster Recovery, Geo-replication, Failover Groups
 
-### ETL and Data Platform Architecture with Python and Amazon Web Services tools:
+### Data Platform Architecture with Python and Amazon Web Services tools
 RESTful API, Amazon S3, RDS, IAM, boto3
 SQLAlchemy, Pandas, Regular Expressions (re)
 
-### Database Design and Analysis:
+### Database Design and Analysis
 PostgresSQL, PgAdmin, ERD Tool
 MySQL, MongoDB
-SQL CRUD, CTE, aggregate and Window operations
+SQL CRUD, CTE, aggregate and window operations
 
 ### Infrastructure as a Code
 Bicep, Terraform, Azure Developer CLI
@@ -37,5 +37,5 @@ Bicep, Terraform, Azure Developer CLI
 ### Continiuos Integration/Continuous Development
 Azure DevOps, GitHub Actions
 
-### Containerization
+### Containers
 Docker, Kubernetes
