@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Zulfia</h1>
 <h3 align="center">An aspiring cloud data engineer from London</h3>
 
-### Certifications:
-I am certified in **Microsoft Azure AI Fundamentals** and currently working on **Azure Cloud Fundamentals Certification**.
+### Microsoft Credentials:
+Microsoft Applied Skill credential in **Deploying Cloud-Native Applications** and certificate in **Azure AI-900**. Currently working on **Azure AZ-900** Certification.
 
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="30" height="30"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> </p>
@@ -25,6 +25,11 @@ Disaster Recovery, Geo-replication, Failover Groups
 ### Data Platform Architecture with Python and Amazon Web Services tools
 RESTful API, Amazon S3, RDS, IAM, boto3
 SQLAlchemy, Pandas, Regular Expressions (re)
+
+## Platform as a Service solution with Azure
+Container Registry, Container Apps
+Service Bus, Virtual Networks, Access Controls/Managed Identities
+Azure CI/CD Pipelines with self-hosted agents
 
 ### Database Design and Analysis
 PostgresSQL, PgAdmin, ERD Tool
