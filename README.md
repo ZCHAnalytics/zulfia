@@ -9,6 +9,9 @@
 ### Microsoft Applied Skills Credentials: 
 **Deploying Cloud-Native Apps using Azure Container Apps**, **Configure secure access to your workloads using Azure networking**.
 
+### Kubernetes Resume Challenge 
+** Just completed Kubernetes Cloud Challenge with Conversion from CentosOS to Windows with PowerShell** 
+
 <p align="left"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="30" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" />
