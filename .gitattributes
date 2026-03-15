@@ -1,2 +1,13 @@
+# Ignore notebooks
 *.ipynb linguist-documentation
+
+# Count SQL
 *.sql linguist-detectable=true
+
+# Force Terraform / HCL detection
+*.hcl linguist-detectable=true
+*.tf linguist-detectable=true
+
+# Force YAML detection
+*.yaml linguist-detectable=true
+*.yml linguist-detectable=true
