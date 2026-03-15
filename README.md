@@ -4,13 +4,11 @@
 <h3 align="center">Cloud & DevOps engineer based in London building cloud infrastructure, serverless applications, and automated deployment pipelines.</h3>
 
 ---
+
 ## Live Cloud Projects
 
-[**Azure Cloud Resume (Terraform + CI/CD)**](https://shecodesclouds.azureedge.net/)
-
-[**AWS Cloud Resume (Serverless Architecture)**](https://d2nbnkdm6lwmfu.cloudfront.net/)
-
-[**GitHub portfolio**](https://github.com/ZCHAnalytics/)
+[**Azure Cloud Resume (Terraform + CI/CD)**](https://shecodesclouds.azureedge.net/) • 
+[**AWS Cloud Resume (Serverless Architecture)**](https://d2nbnkdm6lwmfu.cloudfront.net/) • [**GitHub portfolio**](https://github.com/ZCHAnalytics/)
 
 ---
 
