@@ -5,13 +5,6 @@
 
 ---
 
-## Live Cloud Projects
-
-[**Azure Cloud Resume (Terraform + CI/CD)**](https://shecodesclouds.azureedge.net/) 
-
-[**AWS Cloud Resume (Serverless Architecture)**](https://d2nbnkdm6lwmfu.cloudfront.net/) 
-
-[**GitHub portfolio**](https://github.com/ZCHAnalytics/)
 
 <p align="right">
     <a href="https://github.com/ZCHAnalytics/github-readme-stats">
@@ -20,6 +13,13 @@
 </p>
 
 <img align="right" alt="cloud compute" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl7DJ0l-Cgo6ivHjEzbigK_HSAahU-h8nn4BMh1JDz3C-7VX9f2VdXlhHA-w&s">
+
+
+## Live Cloud Projects
+
+[**Azure Cloud Resume (Terraform + CI/CD)**](https://shecodesclouds.azureedge.net/) 
+
+[**AWS Cloud Resume (Serverless Architecture)**](https://d2nbnkdm6lwmfu.cloudfront.net/) 
 
 ---
 
@@ -64,7 +64,7 @@
 
 ---
 
-##Technologies & Tools
+### Technologies & Tools
 
 **Cloud Platforms**: Azure • AWS
 
