@@ -5,25 +5,32 @@
 ---
 ## Live Cloud Projects
 **Azure Cloud Resume (Terraform + CI/CD)**
+
 [shecodesclouds.azureedge.net](https://shecodesclouds.azureedge.net/)
 
 **AWS Cloud Resume (Serverless Architecture)**
+
 [d2nbnkdm6lwmfu.cloudfront.net](https://d2nbnkdm6lwmfu.cloudfront.net/)
 
 **GitHub portfolio**
+
 [github.com/ZCHAnalytics](https://github.com/ZCHAnalytics/)
 
 ---
+
 ## Cloud Engineering Projects
 
 ### Azure Cloud Resume Challenge
+
 - Infrastructure as Code using **Terraform**
 - Static site hosted on **Azure Storage Static Website + CDN**
 - Backend API using **Azure Functions + Cosmos DB**
 - Automated deployment with **GitHub Actions**
 - Security scanning with **Syft and Grype**
 - End-to-end testing with **Cypress**
+
 ### AWS Cloud Resume Challenge
+
 - Static site hosted on **Amazon S3**
 - Global delivery using **CloudFront**
 - Serverless backend using **AWS Lambda + API Gateway**
@@ -31,17 +38,20 @@
 - Monitoring with **CloudWatch and SNS alerts**
 
 ### Data migration with Microsoft Azure tools
+
 - Virtual Machine, Storage, Entra ID User Management
 - SQL Server, SQL Server Management System, Data Studio
 - Disaster Recovery, Geo-replication, Failover Groups
 
 ### Kubernetes Resume Challenge
+
 - Containerised application using **Docker**
 - Deployed to **Kubernetes cluster**
 - Infrastructure provisioned with **Terraform**
 - Windows environment using **PowerShell**
 
 ### Data Engineering Project
+
 - Retail Sales ETL pipeline processing **120k+ records**
 - Python ETL scripts
 - Data ingestion from APIs, JSON, CSV and PDF
@@ -50,35 +60,56 @@
 ---
 
 ## Technologies & Tools
+
 **Cloud Platforms**
+
 Azure • AWS
+
 **Infrastructure & DevOps**
+
 Terraform • GitHub Actions • Azure DevOps • CI/CD
+
 **Containers**
+
 Docker • Kubernetes
+
 **Programming**
+
 Python • SQL • PowerShell • Bash
+
 **Cloud Services**
+
 Azure Functions • Cosmos DB • Azure Storage • CDN  
 AWS Lambda • API Gateway • DynamoDB • CloudFront
+
 **Security & Testing**
+
 RBAC • IAM • SBOM generation (Syft) • Vulnerability scanning (Grype) • Cypress E2E testing
 
 ---
 
 ## Certifications
+
 - Microsoft **AZ-900 Azure Fundamentals**
+
 - Microsoft **AI-900 Azure AI Fundamentals**
+
 Preparing for:
+
 - **AZ-104 Azure Administrator**
+
 - **Terraform Associate 004**
 
 ---
 
 ## Learning & Training
+
 Cloud Engineering Bootcamp – AiCore  
+
 Microsoft Learn  
+
 Udemy Cloud & DevOps courses
+
 ---
 
 ## 📫 Connect With Me
