@@ -4,18 +4,22 @@
 <h3 align="center">Cloud & DevOps engineer based in London building cloud infrastructure, serverless applications, and automated deployment pipelines.</h3>
 ---
 ## Live Cloud Projects
-**Azure Cloud Resume (Terraform + CI/CD)**
+[**Azure Cloud Resume (Terraform + CI/CD)**](https://shecodesclouds.azureedge.net/)
 
-[shecodesclouds.azureedge.net](https://shecodesclouds.azureedge.net/)
+[**AWS Cloud Resume (Serverless Architecture)**](https://d2nbnkdm6lwmfu.cloudfront.net/)
 
-**AWS Cloud Resume (Serverless Architecture)**
+[**GitHub portfolio**](https://github.com/ZCHAnalytics/)
 
-[d2nbnkdm6lwmfu.cloudfront.net](https://d2nbnkdm6lwmfu.cloudfront.net/)
-
-**GitHub portfolio**
-
-[github.com/ZCHAnalytics](https://github.com/ZCHAnalytics/)
-
+<p align="left"> 
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="30" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="30"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" />
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="30" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" />
+</p>
 ---
 
 ## Cloud Engineering Projects
@@ -90,44 +94,26 @@ RBAC • IAM • SBOM generation (Syft) • Vulnerability scanning (Grype) • C
 
 ## Certifications
 
-- Microsoft **AZ-900 Azure Fundamentals**
-
-- Microsoft **AI-900 Azure AI Fundamentals**
+- Microsoft **AZ-900 Azure Fundamentals** - Microsoft **AI-900 Azure AI Fundamentals** - **NCFE Cyber Security Practices**
 
 Preparing for:
 
-- **AZ-104 Azure Administrator**
-
-- **Terraform Associate 004**
+- **AZ-104 Azure Administrator** - **Terraform Associate 004**
 
 ---
 
 ## Learning & Training
 
-Cloud Engineering Bootcamp – AiCore  
-
-Microsoft Learn  
-
-Udemy Cloud & DevOps courses
+- Cloud Engineering Bootcamp with AiCore - Microsoft Learn - Udemy Cloud & DevOps courses
 
 ---
 
 ## 📫 Connect With Me
-LinkedIn  
-https://linkedin.com/in/zulfia>
 
-GitHub  
-https://github.com/ZCHAnalytics
-<p align="left"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="30" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" />
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="30"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" />
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="30" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" />
-</p>
+[LinkedIn Profile](https://linkedin.com/in/zulfia)
+
+[GitHub Repositories](https://github.com/ZCHAnalytics)
+
 
 <p align="right">
     <a href="https://github.com/ZCHAnalytics/github-readme-stats">
