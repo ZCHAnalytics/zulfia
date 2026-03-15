@@ -3,14 +3,6 @@
 <h1 align="center">Hi, I'm Zulfia</h1>
 <h3 align="center">Cloud & DevOps engineer based in London building cloud infrastructure, serverless applications, and automated deployment pipelines.</h3>
 
-<p align="right">
-    <a href="https://github.com/ZCHAnalytics/github-readme-stats">
-        <img align="right" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZCHAnalytics&layout=donut" alt="Top Languages">
-    </a>
-</p>
-
-<img align="right" alt="cloud compute" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl7DJ0l-Cgo6ivHjEzbigK_HSAahU-h8nn4BMh1JDz3C-7VX9f2VdXlhHA-w&s">
-
 ---
 ## Live Cloud Projects
 
@@ -21,7 +13,15 @@
 [**GitHub portfolio**](https://github.com/ZCHAnalytics/)
 
 ---
+<p align="right">
+    <a href="https://github.com/ZCHAnalytics/github-readme-stats">
+        <img align="right" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZCHAnalytics&layout=donut" alt="Top Languages">
+    </a>
+</p>
 
+<img align="right" alt="cloud compute" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl7DJ0l-Cgo6ivHjEzbigK_HSAahU-h8nn4BMh1JDz3C-7VX9f2VdXlhHA-w&s">
+
+---
 ## Cloud Engineering Projects
 
 ### Azure Cloud Resume Challenge
@@ -63,48 +63,33 @@
 
 ---
 
-## Technologies & Tools
+##Technologies & Tools
 
-**Cloud Platforms**
+**Cloud Platforms**: Azure • AWS
 
-Azure • AWS
+**Infrastructure & DevOps**: Terraform • GitHub Actions • Azure DevOps • CI/CD
 
-**Infrastructure & DevOps**
+**Containers**: Docker • Kubernetes
 
-Terraform • GitHub Actions • Azure DevOps • CI/CD
+**Programming**: Python • SQL • PowerShell • Bash
 
-**Containers**
+**Cloud Services**: Azure Functions • Cosmos DB • Azure Storage • CDN • AWS Lambda • API Gateway • DynamoDB • CloudFront
 
-Docker • Kubernetes
-
-**Programming**
-
-Python • SQL • PowerShell • Bash
-
-**Cloud Services**
-
-Azure Functions • Cosmos DB • Azure Storage • CDN  
-AWS Lambda • API Gateway • DynamoDB • CloudFront
-
-**Security & Testing**
-
-RBAC • IAM • SBOM generation (Syft) • Vulnerability scanning (Grype) • Cypress E2E testing
+**Security & Testing**: RBAC • IAM • SBOM generation (Syft) • Vulnerability scanning (Grype) • Cypress E2E testing
 
 ---
 
 ## Certifications
 
-- Microsoft **AZ-900 Azure Fundamentals** - Microsoft **AI-900 Azure AI Fundamentals** - **NCFE Cyber Security Practices**
+• Microsoft **AZ-900** • **AI-900** • **NCFE Cyber Security Practices**
 
-Preparing for:
-
-- **AZ-104 Azure Administrator** - **Terraform Associate 004**
+Preparation completed for: • **AZ-104 Azure Administrator** • **Terraform Associate 004**
 
 ---
 
 ## Learning & Training
 
-- Cloud Engineering Bootcamp with AiCore - Microsoft Learn - Udemy Cloud & DevOps courses
+• Cloud Engineering Bootcamp with AiCore • Microsoft Learn • Udemy Cloud & DevOps courses
 
 ---
 
